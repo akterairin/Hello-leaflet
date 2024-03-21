@@ -1,3 +1,3 @@
-# GeoJSON
+# GeoJSON assignment
 
-https://leafletjs.com/examples/geojson/ 
+https://leafletjs.com/examples/geojson/  
